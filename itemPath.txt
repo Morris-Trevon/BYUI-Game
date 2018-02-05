@@ -1,0 +1,10 @@
+
+     ********* Item Inventory ********
+InventoryType | Quantity In Stock | Required Amount 
+\[ Rifle            0                 0       
+,  Bullets            0                 0       
+,  Meat            0                 0       
+,  Map            0                 0       
+,  Knife            0                 0       
+,  Extra Life            0                 0       
+]
